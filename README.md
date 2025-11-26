@@ -1,7 +1,7 @@
 <div align="center">
   <!-- <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius: 50%" /> -->
   <p align="center">
-  <img src="https://i.imgur.com/3Y1Zq7p.gif" width="260"/>
+  <img src="https://cdn.dribbble.com/userupload/25939672/file/original-7566dcc8b51a711ff98db285a96d46ba.gif" width="260"/>
 </p>
 
   # 👋 Hi, I'm **Ananya Joshi**
