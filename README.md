@@ -5,7 +5,7 @@
 </p>
 
   # 👋 Hi, I'm **Ananya Joshi**
-  ### Software Engineer | AI/ML | Full-Stack Developer | Open-Source Contributor
+  ### Software Engineer | AI/ML | Full-Stack Developer 
 
 </div>
 
