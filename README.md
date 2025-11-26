@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius: 50%" />
-  
+  <!-- <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius: 50%" /> -->
+  <p align="center">
+  <img src="https://i.imgur.com/qe7tZRi.gif" width="350"/>
+</p>
+
   # 👋 Hi, I'm **Ananya Joshi**
   ### Software Engineer | AI/ML | Full-Stack Developer | Open-Source Contributor
 
