@@ -29,19 +29,20 @@
 
 ---
 
-🔗 Repo: *[add link]*
+
+## 📄 Research & Publications
+- **AutoAssess: Automated SQL Query Evaluation Using LLMs**  
+  Published in IEEE (2025)  
+  🔗 [Read the Paper](https://ieeexplore.ieee.org/document/10940103)
 
 ---
 
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://ananyajoshi.vercel.app  
 - 💼 LinkedIn: https://linkedin.com/in/ananya-joshi  
-- 🧪 GitHub: https://github.com/ananya1305  
 
 ---
 
-<div align="center">
-  
-### ⭐ If you like my work, consider starring a repo!
+
 
 </div>
