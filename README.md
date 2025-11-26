@@ -13,8 +13,7 @@
 
 ## 👩‍💻 About Me
 - 🎓 Master’s in Artificial Intelligence @ Northeastern University  
-- 🧠 Passionate about Generative AI, LLMs, and Modern Web Development  
-- 🌱 Currently learning **Go**, Cloud Infra, and LLM Systems  
+- 🧠 Passionate about Generative AI, LLMs, and Modern Web Development 
 - 🤝 Active contributor to **open-source projects on GitHub**  
 - 🚀 Love building intelligent applications that blend ML + Engineering  
 - 🏊 National-level swimmer & tech enthusiast  
@@ -22,7 +21,7 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, Go (Basics), SQL  
+**Languages:** Python, JavaScript, SQL  
 **AI/ML:** PyTorch, TensorFlow, Transformers, LangChain, LangGraph  
 **Frontend:** React.js, Next.js, HTML5, CSS3  
 **Backend:** FastAPI, Node.js, Express, MongoDB, Postgres, Docker  
