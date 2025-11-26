@@ -29,32 +29,6 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🚀 Auto Assess — SQL Query Autograder (IEEE Published)
-AI-based platform to evaluate SQL queries using NLP + LLMs.  
-**Tech:** PyTorch, Llama 3.1, Flask, MongoDB  
-🔗 Repo: *[add link]*
-
----
-
-### 🖼️ Image Super Resolution — WGAN-GP
-Enhanced low-resolution images using GANs & perceptual loss.  
-**Tech:** PyTorch, VGG19, GAN/WGAN-GP  
-🔗 Repo: *[add link]*
-
----
-
-### 🧳 Travel Chatbot (for postcard.travel)
-LLM-powered chatbot with intelligent routing using LangGraph.  
-**Tech:** Next.js, LangGraph, Python  
-🔗 Repo: *[add link if allowed]*
-
----
-
-### 🌐 Company Management Platform
-Full-stack system with dynamic pages, CRUD, dashboards.  
-**Tech:** React.js, Node.js, MongoDB  
 🔗 Repo: *[add link]*
 
 ---
