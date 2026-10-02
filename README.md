@@ -62,7 +62,7 @@
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ananya1305&layout=compact&theme=radical)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananya1305&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ananya1305&label=Profile%20views&color=0e75b6&style=flat&base=100" alt="profile views" />
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
