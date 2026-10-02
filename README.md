@@ -59,7 +59,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ananya1305&theme=radical&v=2)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ananya1305&layout=compact&theme=radical)
 
 <div align="center">
