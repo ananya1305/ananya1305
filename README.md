@@ -17,6 +17,7 @@
 - 🎓 Master’s in **Artificial Intelligence** @ Northeastern University
 - 🧠 Passionate about **Generative AI, LLMs, NLP** and modern web development
 - 🤝 Active contributor to **open-source projects** on GitHub
+- 🔬 Focus areas: **RAG, LLM fine-tuning (LoRA / PEFT), Transformers, Reinforcement Learning**
 - 🚀 I love building intelligent applications that blend ML + engineering
 - 🏊 National-level swimmer & tech enthusiast
 - 👩‍💻 Check out my portfolio at [ananyajoshi.vercel.app](https://ananyajoshi.vercel.app)
@@ -33,40 +34,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### 🤖 AI & ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=15" />
-<br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-F7307C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM%20Fine--tuning-F7307C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-F7307C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Reinforcement%20Learning-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/CNNs%20%7C%20GANs%20%7C%20U--Net%2B%2B-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge" />
+<img src="assets/skills-ai-ml.svg" alt="PyTorch, TensorFlow, LangChain, Hugging Face, scikit-learn, OpenCV, NumPy, pandas, Jupyter" />
 
 #### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css&perline=15" />
-<br>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="assets/skills-languages.svg" alt="Python, JavaScript, TypeScript, C++, HTML, CSS" />
 
 #### 🌐 Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask&perline=15" />
-<br>
-<img src="https://img.shields.io/badge/REST%20APIs-0E75B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Component%20Architecture-0E75B6?style=for-the-badge" />
+<img src="assets/skills-web.svg" alt="React, Next.js, Node.js, FastAPI, Flask" />
 
 #### 🗄️ Data & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,docker,git&perline=15" />
-<br>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge" />
+<img src="assets/skills-tools.svg" alt="MongoDB, Qdrant, Docker, Git, n8n" />
 
 <br>
 
@@ -82,7 +59,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=ananya1305&theme=radical)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ananya1305&layout=compact&theme=radical)
 
 <div align="center">
