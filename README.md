@@ -32,17 +32,41 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=py,js,java&perline=15" />
+#### 🤖 AI & ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&perline=15" />
+<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-F7307C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Fine--tuning-F7307C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-F7307C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformers-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reinforcement%20Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CNNs%20%7C%20GANs%20%7C%20U--Net%2B%2B-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-8A2BE2?style=for-the-badge" />
 
-#### AI & ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=15" />
+#### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,html,css&perline=15" />
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-#### Web Development
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css&perline=15" />
+#### 🌐 Frontend & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,flask&perline=15" />
+<br>
+<img src="https://img.shields.io/badge/REST%20APIs-0E75B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Component%20Architecture-0E75B6?style=for-the-badge" />
 
-#### Databases, Tools & DevOps
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,docker,github,vscode&perline=15" />
+#### 🗄️ Data & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,docker,git&perline=15" />
+<br>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge" />
 
 <br>
 
